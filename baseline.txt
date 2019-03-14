@@ -1,0 +1,3 @@
+The baseline on Test set has scored 7.98 on BLUE.
+The best dev perplexity for the baseline model is 22.4.
+The training loss for the epoch achieving the lowest validation perplexity was 2.334.
